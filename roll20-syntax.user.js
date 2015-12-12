@@ -9,7 +9,7 @@
 // @require https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.9.0/codemirror.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.9.0/addon/mode/simple.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.9.0/addon/display/fullscreen.min.js
-// @require https://codepen.io/Flibx/pen/yeYOPp.js
+// @require https://raw.githubusercontent.com/EdBailey/roll20-syntax/master/roll20.sytax.js
 // @require https://raw.githubusercontent.com/rafaelw/mutation-summary/master/src/mutation-summary.js
 // @resource      codemirrorCSS https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.9.0/codemirror.min.css
 // @resource      codemirrorCSS_Monokai https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.9.0/theme/monokai.min.css
