@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Roll20 macro syntax highlighting
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/EdBailey/
 // @version      0.1
 // @description  Enable syntax highlighting for roll20 macros
 // @author       Ed Bailey
